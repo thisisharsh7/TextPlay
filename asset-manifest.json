@@ -1,7 +1,7 @@
 {
   "main.css": "/TextPlay/static/css/main.aa9bd9c3.chunk.css",
-  "main.js": "/TextPlay/static/js/main.b463993d.chunk.js",
-  "main.js.map": "/TextPlay/static/js/main.b463993d.chunk.js.map",
+  "main.js": "/TextPlay/static/js/main.76c74d7a.chunk.js",
+  "main.js.map": "/TextPlay/static/js/main.76c74d7a.chunk.js.map",
   "static/js/1.03ae7ea8.chunk.js": "/TextPlay/static/js/1.03ae7ea8.chunk.js",
   "static/js/1.03ae7ea8.chunk.js.map": "/TextPlay/static/js/1.03ae7ea8.chunk.js.map",
   "static/js/2.946d8365.chunk.js": "/TextPlay/static/js/2.946d8365.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/TextPlay/static/js/runtime~main.2d3214e3.js.map",
   "static/css/main.aa9bd9c3.chunk.css.map": "/TextPlay/static/css/main.aa9bd9c3.chunk.css.map",
   "index.html": "/TextPlay/index.html",
-  "precache-manifest.4d458f2e0f8f72e2243100166820234a.js": "/TextPlay/precache-manifest.4d458f2e0f8f72e2243100166820234a.js",
+  "precache-manifest.88f4f33eab8ce0a944439ae573e19d1a.js": "/TextPlay/precache-manifest.88f4f33eab8ce0a944439ae573e19d1a.js",
   "service-worker.js": "/TextPlay/service-worker.js"
 }
